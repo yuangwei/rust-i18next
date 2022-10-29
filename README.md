@@ -1,1 +1,1 @@
-# i18next.rs
+# rust-i18next
